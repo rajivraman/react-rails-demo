@@ -14,4 +14,6 @@ They can choose how to sort the output:
 * Vehicle type
 * Full name
 
-The file is submitted, processed, and returned in tabular format (properly sorted). Controller tests are included.
+The file is submitted, processed, and returned in tabular format (properly sorted).
+
+Controller tests are included.
